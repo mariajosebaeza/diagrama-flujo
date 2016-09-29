@@ -1,3 +1,3 @@
 # Diagrama de flujo 
 
-![Alt-text](img/diagrama-flujo.jpg)
+![Alt-text](diagrama-flujo.jpg)
